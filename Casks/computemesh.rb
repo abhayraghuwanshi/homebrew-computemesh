@@ -9,7 +9,7 @@ cask "computemesh" do
 
   # Only an Apple Silicon (aarch64) build is published today.
   depends_on arch: :arm64
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "ComputeMesh Worker.app"
 
