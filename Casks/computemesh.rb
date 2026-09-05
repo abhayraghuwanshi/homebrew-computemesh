@@ -1,6 +1,6 @@
 cask "computemesh" do
-  version "0.1.1"
-  sha256 "63e5359c5a80ccfbb54f028e7824647419eb094b3c2fd10497fabee78766b75e"
+  version "0.1.2"
+  sha256 "48218d03e5afc0bba978cda60b159bfd08f58a1220633a7eeea2767115348774"
 
   url "https://pub-3781a376782940c5b1a2c0c31497e962.r2.dev/ComputeMesh-Worker-aarch64.dmg"
   name "ComputeMesh Worker"
